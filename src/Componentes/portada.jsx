@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../Imagenes/logo.png';
+import logo from '../Imagenes/LOGO.png';
 import { Link } from 'react-router-dom';
 
 function Portada() {
