@@ -1,11 +1,11 @@
 import React from "react";
-import logo from '../Imagenes/LOGO.png';
+import LOGO from '../Imagenes/LOGO.png';
 
 function Iniciosesion() {
     return (
        <div className="container">
         <div className="row">
-            <img src={logo} alt="LOGO" className="mx-auto" style={{maxWidth: "500px"}}/>
+            <img src={LOGO} alt="LOGO" className="mx-auto" style={{maxWidth: "500px"}}/>
   
             <div className="container pb-3">
                 <div className="mx-auto" style={{maxWidth: "500px"}}>
