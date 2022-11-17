@@ -6,7 +6,7 @@ function Portada() {
     return (
         <div className="container">
             <div className="row">
-                <img src={logo} alt="logo" className="mx-auto" style={{maxWidth: "500px"}}/>
+                <img src={LOGO} alt="logo" className="mx-auto" style={{maxWidth: "500px"}}/>
 
                 <div className="container">
                     <div className="mx-auto">
