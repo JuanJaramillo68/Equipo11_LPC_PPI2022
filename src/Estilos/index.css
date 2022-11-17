@@ -1,0 +1,30 @@
+body {
+    overflow-x: hidden;
+}
+
+.encabezado {
+    color: #2c4d80;
+}
+.cards {
+    max-height: 450px; 
+}
+
+.carousel-inner {
+    max-height: 39rem;
+}
+
+@media (min-width:786px) {
+    #cursos {
+        width: 60% !important;
+    }
+}
+@media (min-width:426px) {
+    #cursos {
+        width: 80% !important;
+    }
+}
+@media (min-width:2560px) {
+    #cursos {
+        width: 51% !important;
+    }
+}

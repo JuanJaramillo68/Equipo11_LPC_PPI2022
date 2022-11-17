@@ -1,0 +1,64 @@
+{
+  "short_name": "WorldRacing",
+  "name": "WorldRacing App",
+  "description": "WorldRacing tu mejor opcion para vender o comprar tu vehiculo.",
+  "background_color": "#ffffff",
+  "theme_color": "#ebf3ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/icon_16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./img/icon_64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/icon_72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./img/icon_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./img/icon_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/icon_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./img/icon_1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ]
+}
